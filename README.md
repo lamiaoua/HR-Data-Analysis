@@ -9,43 +9,44 @@ L'objectif principal de cette initiative d'analyse d'attrition des employés est
 # Dataset Description
 Le jeu de données fourni comprend un ensemble complet d'attributs relatifs aux employés au sein de l'organisation. Chaque entrée dans le jeu de données correspond à un employé individuel et inclut les champs suivants :
 
-Age : L'âge de l'employé.
-Age Group : Une représentation catégorique de la tranche d'âge de l'employé.
-Attrition : Indique si l'employé a quitté l'organisation (Oui/Non).
-Business Travel : Spécifie la fréquence et la nature des déplacements professionnels de l'employé.
-DailyRate : Le tarif journalier de l'employé.
-Department : Le département dans lequel l'employé travaille.
-Distance From Home : La distance entre le domicile de l'employé et le lieu de travail.
-Education : Le niveau d'éducation de l'employé.
-Education Field : Le domaine d'étude ou de spécialisation de l'éducation de l'employé.
-Employee Count : Le nombre d'employés (valeur constante, probablement 1).
-Employee Number : Un identifiant unique pour chaque employé.
-Environment Satisfaction : La satisfaction de l'employé vis-à-vis de son environnement de travail.
-Gender : Le genre de l'employé.
-Hourly Rate : Le tarif horaire de l'employé.
-Job Involvement : Le niveau d'implication ou d'engagement de l'employé dans son travail.
-Job Level : Le niveau hiérarchique ou le poste de l'employé au sein de l'organisation.
-Job Role : Le rôle ou le titre de poste spécifique de l'employé.
-Job Satisfaction : La satisfaction de l'employé vis-à-vis de son travail.
-Marital Status : Le statut matrimonial de l'employé.
-Monthly Income : Le revenu mensuel de l'employé.
-Salary Slab : Une représentation catégorisée de la tranche salariale de l'employé.
-Monthly Rate : Le tarif mensuel de l'employé.
-Num Companies Worked : Le nombre d'entreprises dans lesquelles l'employé a travaillé auparavant.
-Over 18 : Indique si l'employé a plus de 18 ans.
-Over Time : Indique si l'employé fait des heures supplémentaires (Oui/Non).
-Percent Salary Hike : Le pourcentage d'augmentation de salaire de l'employé.
-Performance Rating : L'évaluation de la performance de l'employé.
-Relationship Satisfaction : La satisfaction de l'employé vis-à-vis de ses relations professionnelles.
-Standard Hours : Le nombre standard d'heures de travail par semaine.
-Stock Option Level : Le niveau d'options d'achat d'actions accordées à l'employé.
-Total Working Years : Le nombre total d'années que l'employé a travaillées.
-Training Times Last Year : Le nombre de fois que l'employé a reçu une formation l'année dernière.
-Work Life Balance : La satisfaction de l'employé vis-à-vis de son équilibre travail-vie personnelle.
-Years At Company : Le nombre d'années que l'employé a passées dans l'entreprise actuelle.
-Years In Current Role : Le nombre d'années que l'employé a passées dans son rôle actuel.
-Years Since Last Promotion : Le nombre d'années écoulées depuis la dernière promotion de l'employé.
-Years With Current Manager : Le nombre d'années que l'employé a passées avec son manager actuel.
+- **Age** : L'âge de l'employé.
+- **Age Group** : Une représentation catégorique de la tranche d'âge de l'employé.
+- **Attrition** : Indique si l'employé a quitté l'organisation (Oui/Non).
+- **Business Travel** : Spécifie la fréquence et la nature des déplacements professionnels de l'employé.
+- **DailyRate** : Le tarif journalier de l'employé.
+- **Department** : Le département dans lequel l'employé travaille.
+- **Distance From Home** : La distance entre le domicile de l'employé et le lieu de travail.
+- **Education** : Le niveau d'éducation de l'employé.
+- **Education Field** : Le domaine d'étude ou de spécialisation de l'éducation de l'employé.
+- **Employee Count** : Le nombre d'employés (valeur constante, probablement 1).
+- **Employee Number** : Un identifiant unique pour chaque employé.
+- **Environment Satisfaction** : La satisfaction de l'employé vis-à-vis de son environnement de travail.
+- **Gender** : Le genre de l'employé.
+- **Hourly Rate** : Le tarif horaire de l'employé.
+- **Job Involvement** : Le niveau d'implication ou d'engagement de l'employé dans son travail.
+- **Job Level** : Le niveau hiérarchique ou le poste de l'employé au sein de l'organisation.
+- **Job Role** : Le rôle ou le titre de poste spécifique de l'employé.
+- **Job Satisfaction** : La satisfaction de l'employé vis-à-vis de son travail.
+- **Marital Status** : Le statut matrimonial de l'employé.
+- **Monthly Income** : Le revenu mensuel de l'employé.
+- **Salary Slab** : Une représentation catégorisée de la tranche salariale de l'employé.
+- **Monthly Rate** : Le tarif mensuel de l'employé.
+- **Num Companies Worked** : Le nombre d'entreprises dans lesquelles l'employé a travaillé auparavant.
+- **Over 18** : Indique si l'employé a plus de 18 ans.
+- **Over Time** : Indique si l'employé fait des heures supplémentaires (Oui/Non).
+- **Percent Salary Hike** : Le pourcentage d'augmentation de salaire de l'employé.
+- **Performance Rating** : L'évaluation de la performance de l'employé.
+- **Relationship Satisfaction** : La satisfaction de l'employé vis-à-vis de ses relations professionnelles.
+- **Standard Hours** : Le nombre standard d'heures de travail par semaine.
+- **Stock Option Level** : Le niveau d'options d'achat d'actions accordées à l'employé.
+- **Total Working Years** : Le nombre total d'années que l'employé a travaillées.
+- **Training Times Last Year** : Le nombre de fois que l'employé a reçu une formation l'année dernière.
+- **Work Life Balance** : La satisfaction de l'employé vis-à-vis de son équilibre travail-vie personnelle.
+- **Years At Company** : Le nombre d'années que l'employé a passées dans l'entreprise actuelle.
+- **Years In Current Role** : Le nombre d'années que l'employé a passées dans son rôle actuel.
+- **Years Since Last Promotion** : Le nombre d'années écoulées depuis la dernière promotion de l'employé.
+- **Years With Current Manager** : Le nombre d'années que l'employé a passées avec son manager actuel.
+
 
 # Tâches Clés pour l'Analyse d'Attrition des Employés
 Nettoyage des Données :
