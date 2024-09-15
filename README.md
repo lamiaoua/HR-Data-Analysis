@@ -68,3 +68,6 @@ Identifier et traiter les valeurs NaN (Not a Number) par imputation ou suppressi
 
 # Création du Tableau de Bord Explicatif
 Tableau de Bord Final : Après avoir complété les tâches de nettoyage des données, un tableau de bord explicatif a été créé avec Power BI. Ce tableau de bord intègre toutes les visualisations clés et permet de suivre les tendances, les motifs et les facteurs influençant l'attrition des employés. Il fournit une vue d'ensemble claire et accessible des données nettoyées, facilitant la prise de décision basée sur les informations extraites.
+
+![Capture_rh](https://github.com/user-attachments/assets/0ac9fdb4-a3da-4070-ae31-8a49285d108a)
+
