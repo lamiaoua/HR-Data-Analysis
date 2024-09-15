@@ -71,3 +71,6 @@ Tableau de Bord Final : Après avoir complété les tâches de nettoyage des don
 
 ![Capture_rh](https://github.com/user-attachments/assets/0ac9fdb4-a3da-4070-ae31-8a49285d108a)
 
+## Authors
+
+- [Lamia Oualili](https://github.com/lamiaoua)
