@@ -3,10 +3,10 @@
 # Introduction
 Les organisations doivent faire face au défi critique de la gestion efficace de l'attrition des employés pour garantir la stabilité et la pérennité de leur main-d'œuvre. Le projet "HR Data  Analytisis" vise à comprendre en profondeur les facteurs influençant l'attrition des employés au sein de l'organisation. Cela implique une analyse minutieuse de divers paramètres tels que les informations démographiques, les rôles professionnels, les indicateurs de performance et les métriques de satisfaction des employés.
 
-# Objective
+# Objectif
 L'objectif principal de cette initiative d'analyse d'attrition des employés est de fournir aux parties prenantes de l'organisation des informations significatives et factuelles. En utilisant des méthodologies basées sur les données, nous visons à prendre des décisions éclairées pour atténuer les risques d'attrition, améliorer la satisfaction des employés et favoriser une main-d'œuvre résiliente et engagée.
 
-# Dataset Description
+#  Description du dataset 
 Le jeu de données fourni comprend un ensemble complet d'attributs relatifs aux employés au sein de l'organisation. Chaque entrée dans le jeu de données correspond à un employé individuel et inclut les champs suivants :
 
 - **Age** : L'âge de l'employé.
